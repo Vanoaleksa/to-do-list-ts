@@ -1,0 +1,22 @@
+.list-item {
+  padding-top: 10px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.list-item_sub-title {
+  text-align: center;
+  width: 90%;
+}
+
+.list-item button {
+  width: 10%;
+  margin-left: 20px;
+  background-color: #ffd5d5;
+    border: 1px solid grey;
+    color: rgb(20, 20, 20);
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 10px 10px;
+}

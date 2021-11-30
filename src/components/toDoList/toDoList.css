@@ -1,0 +1,29 @@
+.to-do-list{
+    margin-top: 100px;
+    height: 600px;
+    overflow-y: auto;
+    width: 400px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;    
+    border-radius: 12px;
+    box-shadow: 0 0 39px -4px rgba(26,12,47,.14);
+}
+
+.to-do-list__title{
+    margin: 20px 0 20px 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.to-do-list__content{
+    padding: 0px 20px 0px 20px;
+}
+
+.to-do-button{
+    background-color: whitesmoke;
+    border-radius: 7px;
+    border-color: #f3f3f3;
+    font-size: 15px;
+}

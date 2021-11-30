@@ -1,0 +1,5 @@
+export const ADD_ITEM: string = "ADD_ITEM"
+export const REMOVE_ITEM: string = "REMOVE_ITEM"
+export const CHANGE_ITEM_STATE: string = "CHANGE_ITEM_STATE"
+export const RESET_ALL: string = "RESET_ALL"
+export const REMOVE_COMPLETED_ITEMS: string = "REMOVE_COMPLETED_ITEMS"
