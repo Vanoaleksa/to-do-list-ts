@@ -3,7 +3,9 @@ export interface ItemsState {
 }
 
 export interface toDoListItem {
-    id: number, name: string, isCompleted: boolean
+    id: number,
+    name: string,
+    isCompleted: boolean
 }
 
 export type ItemsAction = {
